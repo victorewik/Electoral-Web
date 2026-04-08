@@ -1,4 +1,4 @@
-# 🏛️ Vote for the Public University - UCM Faculty of Law
+# 🏛️ Program for online Campaing
 
 Official campaign landing page for the student coalition **Derecho x La Pública** for the Faculty Board and University Cloister elections on April 15th.
 
