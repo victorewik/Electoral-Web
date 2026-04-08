@@ -1,4 +1,4 @@
-# 🏛️ Program for online Campaing
+# 🏛️ Program for online Campaing in University
 
 Official campaign landing page for the student coalition **Derecho x La Pública** for the Faculty Board and University Cloister elections on April 15th.
 
@@ -31,7 +31,7 @@ This platform is designed to mobilize students in defense of public education, e
 
 ⚖️ License
 
-This project is open-source. The assembly and the coalition encourage other student movements to use and adapt this platform to defend public education.
+This project is open-source ( GPL-3.0 license ). The assembly and the coalition encourage other student movements to use and adapt this platform to defend public education.
 
 Asamblea de Derecho por la Pública UCM
 2026.
