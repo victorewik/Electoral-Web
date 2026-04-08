@@ -1,0 +1,15 @@
+services:
+  campana:
+    build: .
+    container_name: campana-derecho
+    restart: always
+    ports:
+      - "5002:5000"
+    volumes:
+      - ./data:/app/data
+    networks:
+      - porlapublica
+
+networks:
+  porlapublica:
+    external: true
